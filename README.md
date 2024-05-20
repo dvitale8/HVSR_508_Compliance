@@ -8,3 +8,5 @@ https://doimspp-my.sharepoint.com/personal/dvitale_usgs_gov/_layouts/15/stream.a
 
 Demonstration of Code Presentation:
 https://doimspp-my.sharepoint.com/personal/dvitale_usgs_gov/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdvitale%5Fusgs%5Fgov%2FDocuments%2FRecordings%2FMeeting%20with%20Vitale%2C%20Donovan%20S%2D20231214%5F101114%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E68bba2eb%2D8b3b%2D43d6%2D9b0a%2De08b8d64162f&wdLOR=c2948D53F%2DD7FF%2D4797%2DA2F2%2DCEE6E2F185A9&ga=1
+
+Update line 64 of the code with the location you saved the exiftool.exe.
